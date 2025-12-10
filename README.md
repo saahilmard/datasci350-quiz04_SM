@@ -1,4 +1,4 @@
-# QTM 350 - Quiz 04
+# DATASCI 350 - Quiz 04
 
 ## SQL Queries
 
